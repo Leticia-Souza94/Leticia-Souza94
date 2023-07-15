@@ -1,5 +1,4 @@
-![GitHub Storytelling (1920 × 5400 px) (1920 × 8000 px)](https://github.com/Leticia-Souza94/Leticia-Souza94/assets/112443902/541bf17f-0e3a-40a5-bc19-bf8be2edf2d2)
-
+<h1>Oiii, Sou a Letícia Souza</h1>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Le-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
